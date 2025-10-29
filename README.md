@@ -67,9 +67,6 @@ This project demonstrates how **structured SQL queries** can convert raw sales d
 
 ---
 
-### 🏁 Summary
-> A decade-long analysis of BMW’s sales data reveals the evolution of a premium automobile brand adapting to new market realities — combining innovation, sustainability, and luxury to maintain global leadership.
-
 **Project by:** *Subhadyuti Rath*  
 **Field:** Data Analytics | Business Intelligence  
 **Tools Used:** SQL (MySQL Workbench)  
